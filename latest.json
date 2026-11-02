@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.3.0.zip",
-  "sha256": "88da1b6c77f513b2c25411e1131bc69ef502a87ca9e8de0ca2caaabddf2f2448",
-  "size": 79905,
-  "notes": "New Voice workspace: transcribe, export captions, translate, dub in a cloned voice, re-say edited lines, voiceovers from a script, voice library and sound tools (noise clean-up, loudness, add/replace audio). Voice engine (Voicebox) installs in-app the first time you use it."
+  "version": "1.4.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.4.0.zip",
+  "sha256": "1a8fca199a7bac08c5fc78211d19f699bd637e853788e5c4bc6bd92474342a0a",
+  "size": 94931,
+  "notes": "New Music workspace: detects tempo and key, ranks songs by how well they blend with your main track, previews them together with transpose (\u00b15 semitones) and tempo match, and saves the shifted song as a WAV. Installs a small audio add-on on restart."
 }
