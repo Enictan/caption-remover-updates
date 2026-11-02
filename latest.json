@@ -1,0 +1,7 @@
+{
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.0.2.zip",
+  "sha256": "8e7f3152e800d8ee95582adda384eafafd5115f7b787fea29c5a4ac124e22382",
+  "size": 23705,
+  "notes": "First release with in-app updates: future versions install from inside the app."
+}
