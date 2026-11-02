@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.1.0.zip",
-  "sha256": "daf33b0d4c0808ede1b0af7402f262240af5bec5b5df195fff61c938827e4077",
-  "size": 41753,
-  "notes": "Much cleaner removal: letter-shaped masks, caption boxes/plates removed fully, and real background copied from nearby frames. New Remove captions button, plus Settings & Help."
+  "version": "1.2.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.2.0.zip",
+  "sha256": "422e4a716244cc39b5d835668fcea773bb237f9fed5c66b858c5097d2d3c6480",
+  "size": 42354,
+  "notes": "Windows version is here. Plus a public download page."
 }
