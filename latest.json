@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.0.4.zip",
-  "sha256": "7f9d420782b2866a620113d29f2b05fdaf98cc8786ac30991572467d2f5a3024",
-  "size": 31706,
-  "notes": "Fix: Choose video button can be clicked again. Clicking anywhere on the empty screen also opens a video."
+  "version": "1.1.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.1.0.zip",
+  "sha256": "daf33b0d4c0808ede1b0af7402f262240af5bec5b5df195fff61c938827e4077",
+  "size": 41753,
+  "notes": "Much cleaner removal: letter-shaped masks, caption boxes/plates removed fully, and real background copied from nearby frames. New Remove captions button, plus Settings & Help."
 }
