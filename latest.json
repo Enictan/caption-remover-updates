@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.2.0.zip",
-  "sha256": "422e4a716244cc39b5d835668fcea773bb237f9fed5c66b858c5097d2d3c6480",
-  "size": 42354,
-  "notes": "Windows version is here. Plus a public download page."
+  "version": "1.3.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.3.0.zip",
+  "sha256": "88da1b6c77f513b2c25411e1131bc69ef502a87ca9e8de0ca2caaabddf2f2448",
+  "size": 79905,
+  "notes": "New Voice workspace: transcribe, export captions, translate, dub in a cloned voice, re-say edited lines, voiceovers from a script, voice library and sound tools (noise clean-up, loudness, add/replace audio). Voice engine (Voicebox) installs in-app the first time you use it."
 }
