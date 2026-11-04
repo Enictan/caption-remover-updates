@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.5.0.zip",
-  "sha256": "735da95f35f050f5a0a149fd6706785d5da5f0e4b93882743b723a4d9823b51b",
-  "size": 153005,
-  "notes": "Music is now two full decks: scrub whole songs, change key and tempo live, split stems (vocals, drums, bass, other, or 6 stems) with mute/solo, Sync or independent tempo, align beats, and save each deck as a WAV. Key detection is more accurate after splitting stems. Installs the stem splitter on restart."
+  "version": "1.6.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.6.0.zip",
+  "sha256": "b62942f7166167b59f62d8e79791dfbe035bef759fba63f5da1b5e436cb66ba3",
+  "size": 171141,
+  "notes": "Stems now play back at full quality and volume (stems are mixed first, then one key/tempo processor per deck); stems always add up exactly to the original; new 'cleanest vocals' stem option (BS-RoFormer); on-screen piano keyboard to check a key by ear, with note names on/off, key highlighting, chord, scale and drone; Pause both hardened."
 }
