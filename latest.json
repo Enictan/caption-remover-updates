@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.8.0.zip",
-  "sha256": "7497363239d608b606b307bb49b0f9661bb5ae4c3a176cab96717308444034b9",
-  "size": 189344,
-  "notes": "Premiere Pro link (works with Premiere 2023 and newer): a Tru Studio Link panel inside Premiere receives mixes from the studio onto the open sequence at the playhead, updates them in place when you send again, and adds phrase/bar/beat and cue markers. Install it from the Premiere button at the top of the Music view."
+  "version": "1.9.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.9.0.zip",
+  "sha256": "21f3fbdcf9573af623d7a44260719a7e4e52e22c38e81f6697b858a7ac4e55d3",
+  "size": 195448,
+  "notes": "Mix tab with live Premiere sync: every stem you keep on the decks goes to Premiere as its own audio track, lined up; with Live sync on, key/tempo/mute/volume/alignment changes update Premiere automatically (only changed stems re-render; clips resize and move themselves; dropped stems leave the timeline). Reinstall the Premiere panel after updating."
 }
