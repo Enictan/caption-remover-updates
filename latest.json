@@ -1,7 +1,7 @@
 {
-  "version": "1.6.2",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.6.2.zip",
-  "sha256": "905164a926535aac48de9e8df3b464668f99de01b89b5834d84492f90bf580bd",
-  "size": 173061,
-  "notes": "Decks: each song and stem now plays from a plain WAV made at your speaker output's exact sample rate, so no deck can play at the wrong speed (songs from videos are often 48 kHz); old playback copies are cleaned up automatically."
+  "version": "1.7.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.7.0.zip",
+  "sha256": "accc6e914c867b4d1c9969d39f38a0036baffcdd36a4f0412d53d59503b083a3",
+  "size": 180296,
+  "notes": "DJ tools: 8 hot cues per deck (remembered per song), beat loops (1-16, halve/double), quantize, EQ with kills + filter per deck, phase meter and the other deck's beats on each waveform, mix recorder (Rec), safety limiter on the master output. Song memory also keeps your key fix and x2/x\u00bd tempo fix."
 }
