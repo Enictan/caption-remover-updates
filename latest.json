@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.9.0.zip",
-  "sha256": "21f3fbdcf9573af623d7a44260719a7e4e52e22c38e81f6697b858a7ac4e55d3",
-  "size": 195448,
-  "notes": "Mix tab with live Premiere sync: every stem you keep on the decks goes to Premiere as its own audio track, lined up; with Live sync on, key/tempo/mute/volume/alignment changes update Premiere automatically (only changed stems re-render; clips resize and move themselves; dropped stems leave the timeline). Reinstall the Premiere panel after updating."
+  "version": "1.9.1",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.9.1.zip",
+  "sha256": "05c0aca12ddc682b6fb5ab5a55a834843140aefaff132a362b30ba82e7ca9bce",
+  "size": 196527,
+  "notes": "Premiere link: the panel now loads its Premiere script from the app, so future updates reach Premiere without reinstalling; an out-of-date panel is detected and explained instead of erroring ('Illegal Parameter type'); outdated panels are refreshed on start and Premiere's panel cache is cleared on reinstall."
 }
