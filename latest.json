@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.4.0.zip",
-  "sha256": "1a8fca199a7bac08c5fc78211d19f699bd637e853788e5c4bc6bd92474342a0a",
-  "size": 94931,
-  "notes": "New Music workspace: detects tempo and key, ranks songs by how well they blend with your main track, previews them together with transpose (\u00b15 semitones) and tempo match, and saves the shifted song as a WAV. Installs a small audio add-on on restart."
+  "version": "1.5.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.5.0.zip",
+  "sha256": "735da95f35f050f5a0a149fd6706785d5da5f0e4b93882743b723a4d9823b51b",
+  "size": 153005,
+  "notes": "Music is now two full decks: scrub whole songs, change key and tempo live, split stems (vocals, drums, bass, other, or 6 stems) with mute/solo, Sync or independent tempo, align beats, and save each deck as a WAV. Key detection is more accurate after splitting stems. Installs the stem splitter on restart."
 }
