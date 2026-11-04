@@ -1,7 +1,7 @@
 {
-  "version": "1.7.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.7.0.zip",
-  "sha256": "accc6e914c867b4d1c9969d39f38a0036baffcdd36a4f0412d53d59503b083a3",
-  "size": 180296,
-  "notes": "DJ tools: 8 hot cues per deck (remembered per song), beat loops (1-16, halve/double), quantize, EQ with kills + filter per deck, phase meter and the other deck's beats on each waveform, mix recorder (Rec), safety limiter on the master output. Song memory also keeps your key fix and x2/x\u00bd tempo fix."
+  "version": "1.8.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.8.0.zip",
+  "sha256": "7497363239d608b606b307bb49b0f9661bb5ae4c3a176cab96717308444034b9",
+  "size": 189344,
+  "notes": "Premiere Pro link (works with Premiere 2023 and newer): a Tru Studio Link panel inside Premiere receives mixes from the studio onto the open sequence at the playhead, updates them in place when you send again, and adds phrase/bar/beat and cue markers. Install it from the Premiere button at the top of the Music view."
 }
