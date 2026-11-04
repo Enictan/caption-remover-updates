@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.6.0.zip",
-  "sha256": "b62942f7166167b59f62d8e79791dfbe035bef759fba63f5da1b5e436cb66ba3",
-  "size": 171141,
-  "notes": "Stems now play back at full quality and volume (stems are mixed first, then one key/tempo processor per deck); stems always add up exactly to the original; new 'cleanest vocals' stem option (BS-RoFormer); on-screen piano keyboard to check a key by ear, with note names on/off, key highlighting, chord, scale and drone; Pause both hardened."
+  "version": "1.6.1",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.6.1.zip",
+  "sha256": "ea21913fad815ec0af5e20e79ecf67705ee82e19572fdd519efdd3585a72d14f",
+  "size": 172229,
+  "notes": "Stems: the app now checks the Apple Silicon GPU's stem output against the CPU and uses the CPU if the GPU gets it wrong (a source of random noise); every song splits fresh; stems play from WAV; new Export button saves each stem as a WAV."
 }
