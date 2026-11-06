@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.9.1.zip",
-  "sha256": "05c0aca12ddc682b6fb5ab5a55a834843140aefaff132a362b30ba82e7ca9bce",
-  "size": 196527,
-  "notes": "Premiere link: the panel now loads its Premiere script from the app, so future updates reach Premiere without reinstalling; an out-of-date panel is detected and explained instead of erroring ('Illegal Parameter type'); outdated panels are refreshed on start and Premiere's panel cache is cleared on reinstall."
+  "version": "1.9.2",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.9.2.zip",
+  "sha256": "91d5c77d14b876729c94021741e27c1c2a260c78ca5dbe6db28212f1022ba72f",
+  "size": 198054,
+  "notes": "Deck lock: with Sync on (or after Align), the decks act as one - play, pause, seek, scrub, beat jumps, the Cue button, hot cues and loops on either deck move both to the matching spot, always started together so they never drift. Free unlocks. Also fixes a 15 ms slip when stems finish loading during playback."
 }
