@@ -1,7 +1,7 @@
 {
-  "version": "1.9.2",
-  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.9.2.zip",
-  "sha256": "91d5c77d14b876729c94021741e27c1c2a260c78ca5dbe6db28212f1022ba72f",
-  "size": 198054,
-  "notes": "Deck lock: with Sync on (or after Align), the decks act as one - play, pause, seek, scrub, beat jumps, the Cue button, hot cues and loops on either deck move both to the matching spot, always started together so they never drift. Free unlocks. Also fixes a 15 ms slip when stems finish loading during playback."
+  "version": "1.10.0",
+  "url": "https://raw.githubusercontent.com/Enictan/caption-remover-updates/main/releases/caption-remover-app-1.10.0.zip",
+  "sha256": "a6e5aa9302940574ad9ac2aa252420a9bb4db9e894eaa8583b790622b4dbb808",
+  "size": 206056,
+  "notes": "Harmony maker: in a deck's Stems tab, press Harmony, mark a line of the vocals (Use loop, or Start/End here) and add up to 4 voices (3rd/4th/5th/6th/octave above or below, or a double). Each follows the song's key note by note and glides between notes, keeps the singer's tone, sings with the lead or answers after (move it by beats), stacks 1-3 humanised takes panned left/right, with reverb, and becomes its own stem (mute/solo/volume, Mix tab, Premiere). Harmonies are remembered per song."
 }
